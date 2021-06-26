@@ -1,4 +1,4 @@
-# GUCera
+# GUCera Website
  It was academic project that consists of 3 milestones. Implementation of Database using SQL and website using ASP.net.
 
  1. Milestone 1: Implementaion of EERD and Schema.
